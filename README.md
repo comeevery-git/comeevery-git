@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=F0BBB6&height=150&section=header" /> -->
 
-<div align= "right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=300&size=42&pause=1000&color=FFEEEE&background=FFFFFF00&random=false&width=600&height=150&lines=I'm+Lydia+✨" alt="Typing SVG" /></a>
+
+<div align= "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=300&size=42&pause=1000&color=FFEEEE&background=FFFFFF00&random=false&width=390&height=150&lines=Hi+there%2C+I'm+Lydia+✨" alt="Typing SVG" /></a>
 </div>
 
 <div style="margin: 0 auto; text-align: center;" align= "center">
