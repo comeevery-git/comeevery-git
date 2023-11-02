@@ -46,14 +46,16 @@ Here are some ideas to get you started:
 <!-- 
 <a href=mailto:comeevery@gmail.com><img src="https://img.shields.io/badge/contact%20me-FC6FFF" /></a>
 -->
+ 
+<br> 
 
-<!-- 
-<a href=mailto:comeevery@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:comeevery@gmail.com" /></a>
-<a href=https://www.instagram.com/hee_talk/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hee_talk/" /></a>
-<a href="https://www.notion.so/PERSON-LIKE-A-SPONGE-5d3b7544b8a24c7a9c1617a363af8213?pvs=4">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/PERSON-LIKE-A-SPONGE-5d3b7544b8a24c7a9c1617a363af8213?pvs=4" /></a>
--->
-
+<div style="margin: 0 auto; text-align: center;" align= "center">
+  📫 &nbsp;
+  <a href=mailto:comeevery@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:comeevery@gmail.com" /></a>
+  <a href="https://www.notion.so/PERSON-LIKE-A-SPONGE-5d3b7544b8a24c7a9c1617a363af8213?pvs=4">
+  <a href=https://www.instagram.com/hee_talk/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hee_talk/" /></a>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/PERSON-LIKE-A-SPONGE-5d3b7544b8a24c7a9c1617a363af8213?pvs=4" /></a>
+</div>
 
 <br> 
 <br> 
