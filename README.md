@@ -57,9 +57,10 @@ Here are some ideas to get you started:
 
 <br> 
 <br> 
-  
+
+<!-- 
 <div align= "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comeevery-git&layout=compact&bg_color=60,fe7171,fcf7f7&title_color=000000&text_color=000000" />
 </div>
-
+-->
 
